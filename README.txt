@@ -1,7 +1,4 @@
 Programming Assignment 2
-Name: Wong Ho Yan Veronica
-Student number: 20424446
-Email: hyvwong@connect.ust.hk
 
 # Libraries used
 threading,socket,errno,select,sys
